@@ -15,6 +15,21 @@
   </a>
 </p>
 
+<p align="center">
+   <a href="https://wakatime.com/@risingwizard">
+     <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=risingwizard&theme=gotham&hide_border=true&layout=compact&langs_count=14&range=all_time" alt="@simba's wakatime stats" />
+   </a>
+   <a href="https://wakatime.com/@risingwizard">
+     <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingwizard&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@simba's wakatime stats" />
+   </a>
+ </p> 
+ <br/> 
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=risingwizard&&style=flat-square" align="center" />
+</div>   
+  
 <!---
 risingwizard/risingwizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
