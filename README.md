@@ -2,7 +2,7 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aafk&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-![](https://komarev.com/ghpvc/?username=aafk)
+
 
 <p align="center">
   <a href="https://github.com/aafk?tab=repositories">
@@ -22,7 +22,7 @@
 </p>
 
  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aafk&&style=flat-square" align="center" />
+  ![](https://komarev.com/ghpvc/?username=aafk)
 </div>   
   
 <!---
