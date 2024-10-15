@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Talented+Dev)](https://git.io/typing-svg)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aafk&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Talented+Dev)](https://git.io/typing-svg
 
 <p align="center">
   <a href="https://github.com/aafk?tab=repositories">
@@ -21,8 +17,8 @@
   </a>
 </p>
 
- <div align="center">
-  ![](https://komarev.com/ghpvc/?username=aafk)
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=aafk" alt="visit">
 </div>   
   
 <!---
