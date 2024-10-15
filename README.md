@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Talented+Dev)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aafk)](https://git.io/streak-stats)
+
 <p align="center">
   <a href="https://github.com/aafk?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aafk&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
