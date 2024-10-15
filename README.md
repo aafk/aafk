@@ -2,6 +2,8 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aafk&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+![](https://komarev.com/ghpvc/?username=aafk)
+
 <p align="center">
   <a href="https://github.com/aafk?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aafk&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
