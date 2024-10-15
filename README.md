@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aafk)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aafk)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://github.com/aafk?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aafk&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
